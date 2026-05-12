@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bhargavi 👋
 
-<!--
-**ReddyBhargavi-10/ReddyBhargavi-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE Student interested in VLSI and Digital Design.
 
-Here are some ideas to get you started:
+## Skills
+- Verilog HDL
+- Digital Electronics
+- C Programming
+- HTML & CSS
+- Vivado (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- VLSI projects
+- RISC processor design
+- FPGA basics
